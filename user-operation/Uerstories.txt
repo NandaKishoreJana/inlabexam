@@ -1,0 +1,30 @@
+Sure, here are some user stories for individual persons using a Library Management System:
+
+1. As a Student: 
+   - I want to be able to search for books by title, author, or category so I can find the books I need for my studies.
+   - I want to be able to see the availability of a book and its location in the library so I can easily find it.
+   - I want to be able to check out and return books using my student ID card for quick and easy transactions.
+   - I want to receive notifications when my borrowed books are due or when a book I've requested becomes available.
+
+2. As a Librarian:
+   - I want to be able to add new books to the library catalog and update existing book information.
+   - I want to be able to manage book loans, including checking books in and out, renewing loans, and handling overdue books.
+   - I want to be able to generate reports on library usage, including the number of books borrowed, popular books, and overdue books.
+   - I want to be able to manage user accounts, including creating new accounts, updating user information, and handling account issues.
+
+3. As a Library Administrator:
+   - I want to be able to manage the overall library system, including configuring system settings and permissions.
+   - I want to be able to monitor library performance and usage statistics to make informed decisions about library operations.
+   - I want to be able to manage the library budget and expenses, including purchasing new books and materials.
+
+These user stories can help guide the development of a Library Management System to meet the needs of various user stories.
+
+As a Student:
+
+Student Name : 
+Student Class :
+Student Adminstration No. :
+Returning Date :
+Purchase Date :
+
+Like this as follows for the other individuals persons also.
